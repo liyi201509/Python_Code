@@ -48,4 +48,4 @@ studentList = "Joshua Diaddigo, Marguerite Murrell, Jackie Elliott"
 print(name_finder(studentList, "Jackie Elliott"))
 print(name_finder(studentList, "Dave Elliott"))
 print(name_finder(studentList, "David Joyner"))
-print(name_finder(studentList, "Jack Smith"))
+print(name_finder(studentList, "Jack Smith")) 
